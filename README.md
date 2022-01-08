@@ -7,7 +7,7 @@ Project title is *bikeshare.py*
 
 ### **Description**
 The project calculates, analyses and displays various statistics based on the user biodata and bike sharing data across three US cities: New York, Chicago and Washington
-
+![This is a snippett of the bikeshare.py result](assets/bikeshare_result_snippet.PNG)
 
 ### **Files used**
 *.csv* bikeshare data files used are available upon request
