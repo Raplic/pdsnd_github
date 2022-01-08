@@ -12,6 +12,10 @@ The project calculates, analyses and displays various statistics based on the us
 ### **Files used**
 *.csv* bikeshare data files used are available upon request
 
+### **Data categories**
+The categories in the dataset are: `Start Time` `End Time` `Trip Duration` `Start Station` `End Station` `User Type`. 
+Additional categories for chicago and new york: `Gender` `Birth Year`
+
 ### **Credits**
 Some sites were used to gain insight on some sub-problems and python techinques. They are:
 
