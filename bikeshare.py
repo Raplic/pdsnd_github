@@ -222,6 +222,8 @@ def view_data(df):
             continue
 
 def main():
+
+    """while loop continues to call function until user enters No, which breaks the loop and exits the program"""
     while True:
         city, month, day, filter = get_filters()
         df = load_data(city, month, day)
